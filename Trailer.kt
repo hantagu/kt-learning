@@ -13,6 +13,8 @@ class Trailer(val manufacturer: String, val weight: Double, val maxCapacity: Dou
     {
         if (this.currentCapacity + weight <= this.maxCapacity)
             this.currentCapacity += weight
+        else
+            println("Груз слишком тяжёлый")
     }
 
     override fun toString(): String

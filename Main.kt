@@ -61,8 +61,10 @@ fun main()
         when (readln())
         {
             "1" -> {
-                if (trailer === null)
+                if (trailer === null) {
+                    println("Прицеп отсутствует")
                     continue
+                }
 
                 print("Масса груза: ")
                 trailer += readln().toDouble()
