@@ -2,6 +2,7 @@
 
 |                                                                          Ветка | Описание                        |
 | ------------------------------------------------------------------------------:|:------------------------------- |
+|                   [matrix](https://github.com/hantagu/kt-learning/tree/matrix) | Лабораторная работа №8          |
 |                 [journal](https://github.com/hantagu/kt-learning/tree/journal) | Лабораторная работа №7          | 
 |                     [notes](https://github.com/hantagu/kt-learning/tree/notes) | Лабораторная работа №6          |
 |                                                                     ~~trains~~ | ~~Лабораторная работа №5~~      |
